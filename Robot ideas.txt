@@ -20,6 +20,3 @@ Gesture Controlled Robotic Car
 
 Fire Fighting Robot
 Wall Climbing Robot
-
-
-
