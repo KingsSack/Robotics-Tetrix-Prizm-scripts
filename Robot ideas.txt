@@ -1,0 +1,25 @@
+Remote Controlled Robot (get the controller to work with it)
+GSM Mobile Phone Controlled Robot (get it to recieve code through text)
+
+Sensor Guided Robot (can see)
+Obstacle Avoiding Robot (can see and not bump into stuff)
+Mapping and Indoor Positioning Robot (can see and create a map so it doesn't bump into stuff)
+
+Ball Tracking Robot (can see a ball)
+Soccer Robot (can see, track, and kick the ball)
+
+Drawing Robot (strap a marker to it and let it go)
+Robotic Arm (or claw)
+
+Line Follower Robot (can see a line, identify where its going, and follow it)
+Color Following Robot (can see collors and move in their general direction)
+Maze Solver Robot (like the mapping thing but it does it while exploring a maze)
+
+Human Detector Robot
+Gesture Controlled Robotic Car
+
+Fire Fighting Robot
+Wall Climbing Robot
+
+
+
