@@ -6,17 +6,15 @@ PRIZM prism;
 
 void setup() 
 {
-  // put your setup code here, to run once:
-
+  // put your setup code here, to run once
   prism.PrizmBegin();
 
   prism.setMotorInvert(1,1);
-
 }
 
 void loop() 
 {
-  // put your main code here, to run repeatedly:
+  // put your main code here, to run repeatedly
   prism.setRedLED(HIGH);
   delay(1000);
   prism.setRedLED(LOW);
